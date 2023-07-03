@@ -1,1 +1,3 @@
+#!/bin/bash
 echo "Testing 456"
+echo "testing poll scm"
